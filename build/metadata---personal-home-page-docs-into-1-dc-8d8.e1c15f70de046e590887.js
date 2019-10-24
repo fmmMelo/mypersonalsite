@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{147:function(o){o.exports=JSON.parse('{"id":"into","title":"Introdu\xe7\xe3o","description":"You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).","source":"@site/docs\\\\doc1.md","permalink":"/Personal-HomePage/docs/into"}')}}]);

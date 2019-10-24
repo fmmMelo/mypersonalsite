@@ -57,33 +57,33 @@
       0,
       10
     ],
-    "@docusaurus-plugin-content-docs/personal-home-page-docs-d69.json": [
+    "@docusaurus-plugin-content-docs/personal-home-page-docs-cc9.json": [
       11
     ],
     "main": [
       18,
       12
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-5d3.json": [
+    "@docusaurus-plugin-content-blog/personal-home-page-blog-34d.json": [
       13
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-bem-vindo-0e9.json": [
+    "@docusaurus-plugin-content-blog/personal-home-page-blog-bem-vindo-1eb.json": [
       14
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-bem-vindo-0fa.json": [
+    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-bem-vindo-90b.json": [
       15
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-blog-dad.json": [
+    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-blog-f70.json": [
       16
     ],
-    "@docusaurus-plugin-content-docs/personal-home-page-docs-into-cd4.json": [
+    "@docusaurus-plugin-content-docs/personal-home-page-docs-into-498.json": [
       17
     ],
     "runtime~main": [
       12,
       18
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-tags-bb1.json": [
+    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-tags-383.json": [
       19
     ],
     "@theme/NotFound": [
@@ -97,14 +97,14 @@
         {
           "file": "common.01d5f0ffd167eb0a52e0.css",
           "hash": "1bc555557ba3ea657d9e",
-          "publicPath": "/Personal-HomePage/common.01d5f0ffd167eb0a52e0.css"
+          "publicPath": "/PersonalHomePage/common.01d5f0ffd167eb0a52e0.css"
         }
       ],
       "js": [
         {
           "file": "common.bffa36f47f3caa0cb0ec.js",
           "hash": "1bc555557ba3ea657d9e",
-          "publicPath": "/Personal-HomePage/common.bffa36f47f3caa0cb0ec.js"
+          "publicPath": "/PersonalHomePage/common.bffa36f47f3caa0cb0ec.js"
         }
       ]
     },
@@ -113,14 +113,14 @@
         {
           "file": "component---site-src-pages-index-jsece-a18.9f99729bff7f082bd679.css",
           "hash": "ced0004bb2e559807f99",
-          "publicPath": "/Personal-HomePage/component---site-src-pages-index-jsece-a18.9f99729bff7f082bd679.css"
+          "publicPath": "/PersonalHomePage/component---site-src-pages-index-jsece-a18.9f99729bff7f082bd679.css"
         }
       ],
       "js": [
         {
           "file": "component---site-src-pages-index-jsece-a18.1c8e0eb1285ae9ba3d70.js",
           "hash": "ced0004bb2e559807f99",
-          "publicPath": "/Personal-HomePage/component---site-src-pages-index-jsece-a18.1c8e0eb1285ae9ba3d70.js"
+          "publicPath": "/PersonalHomePage/component---site-src-pages-index-jsece-a18.1c8e0eb1285ae9ba3d70.js"
         }
       ]
     },
@@ -129,14 +129,14 @@
         {
           "file": "component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
           "hash": "990719242f8db9550fc6",
-          "publicPath": "/Personal-HomePage/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
+          "publicPath": "/PersonalHomePage/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-list-pagea-6-a-7ba.205b6a9d737e954ff141.js",
           "hash": "990719242f8db9550fc6",
-          "publicPath": "/Personal-HomePage/component---theme-blog-list-pagea-6-a-7ba.205b6a9d737e954ff141.js"
+          "publicPath": "/PersonalHomePage/component---theme-blog-list-pagea-6-a-7ba.205b6a9d737e954ff141.js"
         }
       ]
     },
@@ -145,14 +145,14 @@
         {
           "file": "component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
           "hash": "7b1863cce6521e81c064",
-          "publicPath": "/Personal-HomePage/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
+          "publicPath": "/PersonalHomePage/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js",
           "hash": "7b1863cce6521e81c064",
-          "publicPath": "/Personal-HomePage/component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js"
+          "publicPath": "/PersonalHomePage/component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js"
         }
       ]
     },
@@ -161,7 +161,7 @@
         {
           "file": "component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js",
           "hash": "05f4705f20cada4b10a3",
-          "publicPath": "/Personal-HomePage/component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js"
+          "publicPath": "/PersonalHomePage/component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js"
         }
       ]
     },
@@ -170,14 +170,14 @@
         {
           "file": "component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
           "hash": "8e52d479e48111ea8486",
-          "publicPath": "/Personal-HomePage/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
+          "publicPath": "/PersonalHomePage/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js",
           "hash": "8e52d479e48111ea8486",
-          "publicPath": "/Personal-HomePage/component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js"
+          "publicPath": "/PersonalHomePage/component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js"
         }
       ]
     },
@@ -186,14 +186,14 @@
         {
           "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
           "hash": "626f6d1fc86f3e93fe4f",
-          "publicPath": "/Personal-HomePage/component---theme-doc-item-178-a40.de2648345892298aff25.css"
+          "publicPath": "/PersonalHomePage/component---theme-doc-item-178-a40.de2648345892298aff25.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-doc-item-178-a40.b955cb27c38ae03e2b59.js",
           "hash": "626f6d1fc86f3e93fe4f",
-          "publicPath": "/Personal-HomePage/component---theme-doc-item-178-a40.b955cb27c38ae03e2b59.js"
+          "publicPath": "/PersonalHomePage/component---theme-doc-item-178-a40.b955cb27c38ae03e2b59.js"
         }
       ]
     },
@@ -202,50 +202,50 @@
         {
           "file": "component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
           "hash": "86f5c12c39745a4e33fa",
-          "publicPath": "/Personal-HomePage/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
+          "publicPath": "/PersonalHomePage/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-doc-page-1-be-9be.87c6a39172d18cbd574c.js",
           "hash": "86f5c12c39745a4e33fa",
-          "publicPath": "/Personal-HomePage/component---theme-doc-page-1-be-9be.87c6a39172d18cbd574c.js"
+          "publicPath": "/PersonalHomePage/component---theme-doc-page-1-be-9be.87c6a39172d18cbd574c.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---personal-home-page-blog-197-98d.573ced3798a4c5a6e03b.js",
-          "hash": "c3ea0f6084ebdceac0d6",
-          "publicPath": "/Personal-HomePage/content---personal-home-page-blog-197-98d.573ced3798a4c5a6e03b.js"
+          "file": "content---personal-home-page-blog-197-15c.573ced3798a4c5a6e03b.js",
+          "hash": "f72da1ccb2b1d0d2fb6b",
+          "publicPath": "/PersonalHomePage/content---personal-home-page-blog-197-15c.573ced3798a4c5a6e03b.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---personal-home-page-blog-bem-vindoea-4-a94.f80c0e9693b94851f048.js",
-          "hash": "0d2563e53cd03b6dda46",
-          "publicPath": "/Personal-HomePage/content---personal-home-page-blog-bem-vindoea-4-a94.f80c0e9693b94851f048.js"
+          "file": "content---personal-home-page-blog-bem-vindoea-4-270.f80c0e9693b94851f048.js",
+          "hash": "c8d11bbef13cbb8b780a",
+          "publicPath": "/PersonalHomePage/content---personal-home-page-blog-bem-vindoea-4-270.f80c0e9693b94851f048.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---personal-home-page-docs-into-736-7bf.026aa5c689661110f020.js",
-          "hash": "2dcac4ab45ed6f0d2982",
-          "publicPath": "/Personal-HomePage/content---personal-home-page-docs-into-736-7bf.026aa5c689661110f020.js"
+          "file": "content---personal-home-page-docs-into-736-ba0.026aa5c689661110f020.js",
+          "hash": "1f6574dd4f37e6f0e96b",
+          "publicPath": "/PersonalHomePage/content---personal-home-page-docs-into-736-ba0.026aa5c689661110f020.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "docsMetadata---personal-home-page-docs-6-a-5-23f.4fa44e6e7bc261124142.js",
-          "hash": "ecbdb3a36cb11d195944",
-          "publicPath": "/Personal-HomePage/docsMetadata---personal-home-page-docs-6-a-5-23f.4fa44e6e7bc261124142.js"
+          "file": "docsMetadata---personal-home-page-docs-670-649.4fa44e6e7bc261124142.js",
+          "hash": "e3ebd803af35c59198db",
+          "publicPath": "/PersonalHomePage/docsMetadata---personal-home-page-docs-670-649.4fa44e6e7bc261124142.js"
         }
       ]
     },
@@ -253,78 +253,78 @@
       "css": [
         {
           "file": "main.6e700868fc435fdff52f.css",
-          "hash": "074cc60e7174c5dfa1db",
-          "publicPath": "/Personal-HomePage/main.6e700868fc435fdff52f.css"
+          "hash": "85f68203f79fe6e06bec",
+          "publicPath": "/PersonalHomePage/main.6e700868fc435fdff52f.css"
         }
       ],
       "js": [
         {
-          "file": "main.c737f60ce681293675d2.js",
-          "hash": "074cc60e7174c5dfa1db",
-          "publicPath": "/Personal-HomePage/main.c737f60ce681293675d2.js"
+          "file": "main.cc6d4164c4d3fe5868e3.js",
+          "hash": "85f68203f79fe6e06bec",
+          "publicPath": "/PersonalHomePage/main.cc6d4164c4d3fe5868e3.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-343-3b0.51ef7bbe57fe17f30905.js",
-          "hash": "119eb9138daa4cb9e40f",
-          "publicPath": "/Personal-HomePage/metadata---personal-home-page-blog-343-3b0.51ef7bbe57fe17f30905.js"
+          "file": "metadata---personal-home-page-blog-9-a-9-2c7.4238a8140adc52be641a.js",
+          "hash": "12dbb96e6aa4e14aa7ea",
+          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-9-a-9-2c7.4238a8140adc52be641a.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-bem-vindo-051-257.181d041e54980c9ed258.js",
-          "hash": "9d92c94cbeb4dcf6126a",
-          "publicPath": "/Personal-HomePage/metadata---personal-home-page-blog-bem-vindo-051-257.181d041e54980c9ed258.js"
+          "file": "metadata---personal-home-page-blog-bem-vindo-846-ef8.7687af4f5513281256e7.js",
+          "hash": "ab4629f4fa4ec0a89967",
+          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-bem-vindo-846-ef8.7687af4f5513281256e7.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-tags-bem-vindo-413-1f7.0736a78b848e6f25d7ca.js",
-          "hash": "7e689a456838c3f13178",
-          "publicPath": "/Personal-HomePage/metadata---personal-home-page-blog-tags-bem-vindo-413-1f7.0736a78b848e6f25d7ca.js"
+          "file": "metadata---personal-home-page-blog-tags-bem-vindoe-90-144.0930b7ec84226c1a091b.js",
+          "hash": "5b860b090b2bf338cef0",
+          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-tags-bem-vindoe-90-144.0930b7ec84226c1a091b.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-tags-blogb-83-364.c53f8c6a049c372aa60d.js",
-          "hash": "c61029ba885e18c9fa13",
-          "publicPath": "/Personal-HomePage/metadata---personal-home-page-blog-tags-blogb-83-364.c53f8c6a049c372aa60d.js"
+          "file": "metadata---personal-home-page-blog-tags-blog-4-f-4-61e.77294e99e012636bd05e.js",
+          "hash": "1eb55bf96bd8f99aaf4c",
+          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-tags-blog-4-f-4-61e.77294e99e012636bd05e.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "metadata---personal-home-page-docs-into-1-dc-8d8.e1c15f70de046e590887.js",
-          "hash": "cb3ef7984435065ab088",
-          "publicPath": "/Personal-HomePage/metadata---personal-home-page-docs-into-1-dc-8d8.e1c15f70de046e590887.js"
+          "file": "metadata---personal-home-page-docs-intoa-8-e-588.f42abaf513c900dd7ffc.js",
+          "hash": "f45b5c7f793c88502491",
+          "publicPath": "/PersonalHomePage/metadata---personal-home-page-docs-intoa-8-e-588.f42abaf513c900dd7ffc.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "runtime~main.19afd46b580a48526f94.js",
-          "hash": "685e1f019d1dfe2ecac7",
-          "publicPath": "/Personal-HomePage/runtime~main.19afd46b580a48526f94.js"
+          "file": "runtime~main.769794c9d0c4645dd285.js",
+          "hash": "81d84d2380604bf3f06e",
+          "publicPath": "/PersonalHomePage/runtime~main.769794c9d0c4645dd285.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "tags---personal-home-page-blog-tags-994-108.e75442d413eb22919647.js",
-          "hash": "316afaa4d2e863b110ff",
-          "publicPath": "/Personal-HomePage/tags---personal-home-page-blog-tags-994-108.e75442d413eb22919647.js"
+          "file": "tags---personal-home-page-blog-tagsdec-9c7.f204ad4dd44932d4c346.js",
+          "hash": "74f4b9efd31763f353b9",
+          "publicPath": "/PersonalHomePage/tags---personal-home-page-blog-tagsdec-9c7.f204ad4dd44932d4c346.js"
         }
       ]
     },
@@ -333,7 +333,7 @@
         {
           "file": "20.c67e59088f2cf1125f3d.js",
           "hash": "fb86e718cd4773c860d2",
-          "publicPath": "/Personal-HomePage/20.c67e59088f2cf1125f3d.js"
+          "publicPath": "/PersonalHomePage/20.c67e59088f2cf1125f3d.js"
         }
       ]
     }
