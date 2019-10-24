@@ -6,25 +6,21 @@
  */
 
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  title: 'Felipe Melo Moura | Personal HomePage',
+  tagline: 'my personal homepage',
+  url: 'fmmMelo.github.io',
+  favicon: "favicon.ico",
+  baseUrl: '/Personal-HomePage',
+  organizationName: 'fmmMelo', // Usually your GitHub org/user name.
+  projectName: 'Personal HomePage', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'Felipe',
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
+        {to: 'docs/into', label: 'Work', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/fmmMelo',
           label: 'GitHub',
           position: 'right',
         },
@@ -33,39 +29,38 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+
         {
-          title: 'Docs',
+          title: 'Contact',
           items: [
             {
-              label: 'Docs',
-              to: 'docs/doc1',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/felipe-melo-a17b39196/',
             },
           ],
         },
+
         {
-          title: 'Community',
+          title: 'Professional',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'GitHub',
+              href: 'https://github.com/fmmMelo',
             },
           ],
         },
+
         {
           title: 'Social',
           items: [
             {
-              label: 'Blog',
+              label: 'Facebook',
               to: 'blog',
             },
           ],
+
         },
       ],
-      logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'https://docusaurus.io/img/oss_logo.png',
-      },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
