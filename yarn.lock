@@ -1514,6 +1514,11 @@ async-limiter@~1.0.0:
   resolved "https://registry.yarnpkg.com/async-limiter/-/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
   integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
 
+async@*:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.1.0.tgz#42b3b12ae1b74927b5217d8c0016baaf62463772"
+  integrity sha512-4vx/aaY6j/j3Lw3fbCHNWP0pPaTCew3F6F3hYyl/tHs/ndmV1q7NW9T5yuJ2XAGwdQrP+6Wu20x06U4APo/iQQ==
+
 async@^2.6.2:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
@@ -2858,6 +2863,16 @@ depd@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/depd/-/depd-1.1.2.tgz#9bcd52e14c097763e749b274c4346ed2e560b5a9"
   integrity sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak=
+
+dependencies@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/dependencies/-/dependencies-0.0.1.tgz#f882327b18b42842ead3f4f08624dd3e99f15b25"
+  integrity sha1-+IIyexi0KELq0/TwhiTdPpnxWyU=
+  dependencies:
+    async "*"
+    node-walker "*"
+    request "*"
+    underscore "*"
 
 des.js@^1.0.0:
   version "1.0.0"
@@ -5576,6 +5591,11 @@ no-case@^2.2.0:
   dependencies:
     lower-case "^1.1.1"
 
+node-bin-setup@^1.0.0:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/node-bin-setup/-/node-bin-setup-1.0.6.tgz#4b5c9bb937ece702d7069b36ca78af4684677528"
+  integrity sha512-uPIxXNis1CRbv1DwqAxkgBk5NFV3s7cMN/Gf556jSw6jBvV7ca4F9lRL/8cALcZecRibeqU+5dFYqFFmzv5a0Q==
+
 node-emoji@^1.8.1:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/node-emoji/-/node-emoji-1.10.0.tgz#8886abd25d9c7bb61802a658523d1f8d2a89b2da"
@@ -5639,6 +5659,18 @@ node-releases@^1.1.29, node-releases@^1.1.36:
   integrity sha512-/5NZAaOyTj134Oy5Cp/J8mso8OD/D9CSuL+6TOXXsTKO8yjc5e4up75SRPCganCjwFKMj2jbp5tR0dViVdox7g==
   dependencies:
     semver "^6.3.0"
+
+node-walker@*:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/node-walker/-/node-walker-0.1.0.tgz#df2522fb34b1e1cf7e976462deec36016d327432"
+  integrity sha1-3yUi+zSx4c9+l2Ri3uw2AW0ydDI=
+
+node@^13.1.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/node/-/node-13.1.0.tgz#c26bba0dcd749eaca0eace039ecfd0cc05c56d01"
+  integrity sha512-EAolY+/NT6s737S8VdlbcO0s6RXNoYtFBsQarcXrEFWindhzWiPi5H8V6Y+qmF2uESjz0+DvPej+UJ9zLZx6ig==
+  dependencies:
+    node-bin-setup "^1.0.0"
 
 nopt@1.0.10:
   version "1.0.10"
@@ -7408,7 +7440,7 @@ replace-ext@1.0.0:
   resolved "https://registry.yarnpkg.com/replace-ext/-/replace-ext-1.0.0.tgz#de63128373fcbf7c3ccfa4de5a480c45a67958eb"
   integrity sha1-3mMSg3P8v3w8z6TeWkgMRaZ5WOs=
 
-request@^2.87.0:
+request@*, request@^2.87.0:
   version "2.88.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
@@ -8488,6 +8520,11 @@ uglify-js@^3.5.1:
   dependencies:
     commander "~2.20.3"
     source-map "~0.6.1"
+
+underscore@*:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.9.1.tgz#06dce34a0e68a7babc29b365b8e74b8925203961"
+  integrity sha512-5/4etnCkd9c8gwgowi5/om/mYO5ajCaOgdzj/oW+0eQV9WxKBDZw5+ycmKmeaTXjInS/W0BzpGLo2xR2aBwZdg==
 
 unherit@^1.0.4:
   version "1.1.2"
