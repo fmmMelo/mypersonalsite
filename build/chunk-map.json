@@ -1,63 +1,63 @@
 {
   "main": [
-    "/PersonalHomePage/main.803f895e8c302c6cff98.css",
-    "/PersonalHomePage/main.9b7ff97e6db642b08401.js"
+    "/myportfolio/main.803f895e8c302c6cff98.css",
+    "/myportfolio/main.6dc7484ad34bfa0b859a.js"
   ],
   "component---site-src-pages-index-jsece-a18": [
-    "/PersonalHomePage/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
-    "/PersonalHomePage/component---site-src-pages-index-jsece-a18.72eb907726343942800c.js"
+    "/myportfolio/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
+    "/myportfolio/component---site-src-pages-index-jsece-a18.72eb907726343942800c.js"
   ],
   "component---theme-blog-post-pageccc-cab": [
-    "/PersonalHomePage/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
-    "/PersonalHomePage/component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js"
+    "/myportfolio/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
+    "/myportfolio/component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js"
   ],
-  "content---personal-home-page-blog-bem-vindoea-4-270": [
-    "/PersonalHomePage/content---personal-home-page-blog-bem-vindoea-4-270.f80c0e9693b94851f048.js"
+  "content---myportfolio-blog-bem-vindoea-4-563": [
+    "/myportfolio/content---myportfolio-blog-bem-vindoea-4-563.f80c0e9693b94851f048.js"
   ],
-  "metadata---personal-home-page-blog-bem-vindo-846-ef8": [
-    "/PersonalHomePage/metadata---personal-home-page-blog-bem-vindo-846-ef8.ff806fdb0a430d12e563.js"
+  "metadata---myportfolio-blog-bem-vindoe-57-e7a": [
+    "/myportfolio/metadata---myportfolio-blog-bem-vindoe-57-e7a.a72a9c65b48cfef20a58.js"
   ],
   "component---theme-doc-page-1-be-9be": [
-    "/PersonalHomePage/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
-    "/PersonalHomePage/component---theme-doc-page-1-be-9be.33fb4a4e12bcb87ae453.js"
+    "/myportfolio/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
+    "/myportfolio/component---theme-doc-page-1-be-9be.33fb4a4e12bcb87ae453.js"
   ],
-  "docsMetadata---personal-home-page-docs-670-649": [
-    "/PersonalHomePage/docsMetadata---personal-home-page-docs-670-649.5312e84af54d73ff142a.js"
+  "docsMetadata---myportfolio-docs-0-bb-61c": [
+    "/myportfolio/docsMetadata---myportfolio-docs-0-bb-61c.5312e84af54d73ff142a.js"
   ],
   "component---theme-doc-item-178-a40": [
-    "/PersonalHomePage/component---theme-doc-item-178-a40.de2648345892298aff25.css",
-    "/PersonalHomePage/component---theme-doc-item-178-a40.58938c7925627666b791.js"
+    "/myportfolio/component---theme-doc-item-178-a40.de2648345892298aff25.css",
+    "/myportfolio/component---theme-doc-item-178-a40.58938c7925627666b791.js"
   ],
-  "content---personal-home-page-docs-into-736-ba0": [
-    "/PersonalHomePage/content---personal-home-page-docs-into-736-ba0.d251bda5002bdee92e2d.js"
+  "content---myportfolio-docs-into-736-a64": [
+    "/myportfolio/content---myportfolio-docs-into-736-a64.d251bda5002bdee92e2d.js"
   ],
-  "metadata---personal-home-page-docs-intoa-8-e-588": [
-    "/PersonalHomePage/metadata---personal-home-page-docs-intoa-8-e-588.e914136809ce9e957191.js"
+  "metadata---myportfolio-docs-intoe-72-7c1": [
+    "/myportfolio/metadata---myportfolio-docs-intoe-72-7c1.6bd0b6ff2ae256fb4892.js"
   ],
   "component---theme-blog-list-pagea-6-a-7ba": [
-    "/PersonalHomePage/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
-    "/PersonalHomePage/component---theme-blog-list-pagea-6-a-7ba.89530075c60374b9b0cb.js"
+    "/myportfolio/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
+    "/myportfolio/component---theme-blog-list-pagea-6-a-7ba.89530075c60374b9b0cb.js"
   ],
-  "content---personal-home-page-blog-197-15c": [
-    "/PersonalHomePage/content---personal-home-page-blog-197-15c.2bb3e02e3b2e74136b3b.js"
+  "content---myportfolio-blog-197-a44": [
+    "/myportfolio/content---myportfolio-blog-197-a44.2bb3e02e3b2e74136b3b.js"
   ],
-  "metadata---personal-home-page-blog-9-a-9-2c7": [
-    "/PersonalHomePage/metadata---personal-home-page-blog-9-a-9-2c7.805c86cf0bce82597754.js"
+  "metadata---myportfolio-blog-672-0c8": [
+    "/myportfolio/metadata---myportfolio-blog-672-0c8.e078747743208ce858a1.js"
   ],
   "component---theme-blog-tags-posts-page-687-b6c": [
-    "/PersonalHomePage/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
-    "/PersonalHomePage/component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js"
+    "/myportfolio/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
+    "/myportfolio/component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js"
   ],
-  "metadata---personal-home-page-blog-tags-bem-vindoe-90-144": [
-    "/PersonalHomePage/metadata---personal-home-page-blog-tags-bem-vindoe-90-144.0930b7ec84226c1a091b.js"
+  "metadata---myportfolio-blog-tags-bem-vindo-316-6a6": [
+    "/myportfolio/metadata---myportfolio-blog-tags-bem-vindo-316-6a6.e1b064db23ea4dbce2b1.js"
   ],
-  "metadata---personal-home-page-blog-tags-blog-4-f-4-61e": [
-    "/PersonalHomePage/metadata---personal-home-page-blog-tags-blog-4-f-4-61e.77294e99e012636bd05e.js"
+  "metadata---myportfolio-blog-tags-blog-587-51f": [
+    "/myportfolio/metadata---myportfolio-blog-tags-blog-587-51f.6aa45c00dd939ee8b508.js"
   ],
   "component---theme-blog-tags-list-page-01-a-d0b": [
-    "/PersonalHomePage/component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js"
+    "/myportfolio/component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js"
   ],
-  "tags---personal-home-page-blog-tagsdec-9c7": [
-    "/PersonalHomePage/tags---personal-home-page-blog-tagsdec-9c7.f204ad4dd44932d4c346.js"
+  "tags---myportfolio-blog-tagsc-6-d-14d": [
+    "/myportfolio/tags---myportfolio-blog-tagsc-6-d-14d.bd6bc308f61abddf6ea4.js"
   ]
 }

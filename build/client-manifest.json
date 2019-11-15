@@ -57,33 +57,33 @@
       0,
       10
     ],
-    "@docusaurus-plugin-content-docs/personal-home-page-docs-cc9.json": [
+    "@docusaurus-plugin-content-docs/myportfolio-docs-67a.json": [
       11
     ],
     "main": [
       18,
       12
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-34d.json": [
+    "@docusaurus-plugin-content-blog/myportfolio-blog-acc.json": [
       13
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-bem-vindo-1eb.json": [
+    "@docusaurus-plugin-content-blog/myportfolio-blog-bem-vindo-243.json": [
       14
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-bem-vindo-90b.json": [
+    "@docusaurus-plugin-content-blog/myportfolio-blog-tags-bem-vindo-b38.json": [
       15
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-blog-f70.json": [
+    "@docusaurus-plugin-content-blog/myportfolio-blog-tags-blog-dba.json": [
       16
     ],
-    "@docusaurus-plugin-content-docs/personal-home-page-docs-into-498.json": [
+    "@docusaurus-plugin-content-docs/myportfolio-docs-into-43b.json": [
       17
     ],
     "runtime~main": [
       12,
       18
     ],
-    "@docusaurus-plugin-content-blog/personal-home-page-blog-tags-tags-383.json": [
+    "@docusaurus-plugin-content-blog/myportfolio-blog-tags-tags-cbe.json": [
       19
     ],
     "@theme/NotFound": [
@@ -97,14 +97,14 @@
         {
           "file": "common.01d5f0ffd167eb0a52e0.css",
           "hash": "1bc555557ba3ea657d9e",
-          "publicPath": "/PersonalHomePage/common.01d5f0ffd167eb0a52e0.css"
+          "publicPath": "/myportfolio/common.01d5f0ffd167eb0a52e0.css"
         }
       ],
       "js": [
         {
           "file": "common.bffa36f47f3caa0cb0ec.js",
           "hash": "1bc555557ba3ea657d9e",
-          "publicPath": "/PersonalHomePage/common.bffa36f47f3caa0cb0ec.js"
+          "publicPath": "/myportfolio/common.bffa36f47f3caa0cb0ec.js"
         }
       ]
     },
@@ -113,14 +113,14 @@
         {
           "file": "component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
           "hash": "007271e2f0b13301702c",
-          "publicPath": "/PersonalHomePage/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css"
+          "publicPath": "/myportfolio/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css"
         }
       ],
       "js": [
         {
           "file": "component---site-src-pages-index-jsece-a18.72eb907726343942800c.js",
           "hash": "007271e2f0b13301702c",
-          "publicPath": "/PersonalHomePage/component---site-src-pages-index-jsece-a18.72eb907726343942800c.js"
+          "publicPath": "/myportfolio/component---site-src-pages-index-jsece-a18.72eb907726343942800c.js"
         }
       ]
     },
@@ -129,14 +129,14 @@
         {
           "file": "component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
           "hash": "5eb9659ae07a7373e27f",
-          "publicPath": "/PersonalHomePage/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
+          "publicPath": "/myportfolio/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-list-pagea-6-a-7ba.89530075c60374b9b0cb.js",
           "hash": "5eb9659ae07a7373e27f",
-          "publicPath": "/PersonalHomePage/component---theme-blog-list-pagea-6-a-7ba.89530075c60374b9b0cb.js"
+          "publicPath": "/myportfolio/component---theme-blog-list-pagea-6-a-7ba.89530075c60374b9b0cb.js"
         }
       ]
     },
@@ -145,14 +145,14 @@
         {
           "file": "component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
           "hash": "7b1863cce6521e81c064",
-          "publicPath": "/PersonalHomePage/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
+          "publicPath": "/myportfolio/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js",
           "hash": "7b1863cce6521e81c064",
-          "publicPath": "/PersonalHomePage/component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js"
+          "publicPath": "/myportfolio/component---theme-blog-post-pageccc-cab.542de235865254c7c6d4.js"
         }
       ]
     },
@@ -161,7 +161,7 @@
         {
           "file": "component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js",
           "hash": "05f4705f20cada4b10a3",
-          "publicPath": "/PersonalHomePage/component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js"
+          "publicPath": "/myportfolio/component---theme-blog-tags-list-page-01-a-d0b.27b7d69321c48a26e313.js"
         }
       ]
     },
@@ -170,14 +170,14 @@
         {
           "file": "component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
           "hash": "8e52d479e48111ea8486",
-          "publicPath": "/PersonalHomePage/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
+          "publicPath": "/myportfolio/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js",
           "hash": "8e52d479e48111ea8486",
-          "publicPath": "/PersonalHomePage/component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js"
+          "publicPath": "/myportfolio/component---theme-blog-tags-posts-page-687-b6c.420a57b570b83a1e6136.js"
         }
       ]
     },
@@ -186,14 +186,14 @@
         {
           "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
           "hash": "eb3cb2c75f59a84bc856",
-          "publicPath": "/PersonalHomePage/component---theme-doc-item-178-a40.de2648345892298aff25.css"
+          "publicPath": "/myportfolio/component---theme-doc-item-178-a40.de2648345892298aff25.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-doc-item-178-a40.58938c7925627666b791.js",
           "hash": "eb3cb2c75f59a84bc856",
-          "publicPath": "/PersonalHomePage/component---theme-doc-item-178-a40.58938c7925627666b791.js"
+          "publicPath": "/myportfolio/component---theme-doc-item-178-a40.58938c7925627666b791.js"
         }
       ]
     },
@@ -202,50 +202,50 @@
         {
           "file": "component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
           "hash": "0434fb203efd5518228c",
-          "publicPath": "/PersonalHomePage/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
+          "publicPath": "/myportfolio/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
         }
       ],
       "js": [
         {
           "file": "component---theme-doc-page-1-be-9be.33fb4a4e12bcb87ae453.js",
           "hash": "0434fb203efd5518228c",
-          "publicPath": "/PersonalHomePage/component---theme-doc-page-1-be-9be.33fb4a4e12bcb87ae453.js"
+          "publicPath": "/myportfolio/component---theme-doc-page-1-be-9be.33fb4a4e12bcb87ae453.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---personal-home-page-blog-197-15c.2bb3e02e3b2e74136b3b.js",
-          "hash": "e1ded5e9bde6fde91d52",
-          "publicPath": "/PersonalHomePage/content---personal-home-page-blog-197-15c.2bb3e02e3b2e74136b3b.js"
+          "file": "content---myportfolio-blog-197-a44.2bb3e02e3b2e74136b3b.js",
+          "hash": "53dd92f8092835605445",
+          "publicPath": "/myportfolio/content---myportfolio-blog-197-a44.2bb3e02e3b2e74136b3b.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---personal-home-page-blog-bem-vindoea-4-270.f80c0e9693b94851f048.js",
-          "hash": "c8d11bbef13cbb8b780a",
-          "publicPath": "/PersonalHomePage/content---personal-home-page-blog-bem-vindoea-4-270.f80c0e9693b94851f048.js"
+          "file": "content---myportfolio-blog-bem-vindoea-4-563.f80c0e9693b94851f048.js",
+          "hash": "0b4553a41be24d16108f",
+          "publicPath": "/myportfolio/content---myportfolio-blog-bem-vindoea-4-563.f80c0e9693b94851f048.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---personal-home-page-docs-into-736-ba0.d251bda5002bdee92e2d.js",
-          "hash": "54b0ed862614b2bcad14",
-          "publicPath": "/PersonalHomePage/content---personal-home-page-docs-into-736-ba0.d251bda5002bdee92e2d.js"
+          "file": "content---myportfolio-docs-into-736-a64.d251bda5002bdee92e2d.js",
+          "hash": "e570ccf093466bc1769e",
+          "publicPath": "/myportfolio/content---myportfolio-docs-into-736-a64.d251bda5002bdee92e2d.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "docsMetadata---personal-home-page-docs-670-649.5312e84af54d73ff142a.js",
-          "hash": "04964a7b07bf5282bfeb",
-          "publicPath": "/PersonalHomePage/docsMetadata---personal-home-page-docs-670-649.5312e84af54d73ff142a.js"
+          "file": "docsMetadata---myportfolio-docs-0-bb-61c.5312e84af54d73ff142a.js",
+          "hash": "7b1b3181de789d7c13b4",
+          "publicPath": "/myportfolio/docsMetadata---myportfolio-docs-0-bb-61c.5312e84af54d73ff142a.js"
         }
       ]
     },
@@ -253,78 +253,78 @@
       "css": [
         {
           "file": "main.803f895e8c302c6cff98.css",
-          "hash": "326f37dd00e035848b63",
-          "publicPath": "/PersonalHomePage/main.803f895e8c302c6cff98.css"
+          "hash": "ecbbca9323b07a10030d",
+          "publicPath": "/myportfolio/main.803f895e8c302c6cff98.css"
         }
       ],
       "js": [
         {
-          "file": "main.9b7ff97e6db642b08401.js",
-          "hash": "326f37dd00e035848b63",
-          "publicPath": "/PersonalHomePage/main.9b7ff97e6db642b08401.js"
+          "file": "main.6dc7484ad34bfa0b859a.js",
+          "hash": "ecbbca9323b07a10030d",
+          "publicPath": "/myportfolio/main.6dc7484ad34bfa0b859a.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-9-a-9-2c7.805c86cf0bce82597754.js",
-          "hash": "9eba1afe9bac84d39e88",
-          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-9-a-9-2c7.805c86cf0bce82597754.js"
+          "file": "metadata---myportfolio-blog-672-0c8.e078747743208ce858a1.js",
+          "hash": "faec65398fb4e789c583",
+          "publicPath": "/myportfolio/metadata---myportfolio-blog-672-0c8.e078747743208ce858a1.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-bem-vindo-846-ef8.ff806fdb0a430d12e563.js",
-          "hash": "382ed0310a964663c032",
-          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-bem-vindo-846-ef8.ff806fdb0a430d12e563.js"
+          "file": "metadata---myportfolio-blog-bem-vindoe-57-e7a.a72a9c65b48cfef20a58.js",
+          "hash": "d553cf6eb779d38ac8c4",
+          "publicPath": "/myportfolio/metadata---myportfolio-blog-bem-vindoe-57-e7a.a72a9c65b48cfef20a58.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-tags-bem-vindoe-90-144.0930b7ec84226c1a091b.js",
-          "hash": "5b860b090b2bf338cef0",
-          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-tags-bem-vindoe-90-144.0930b7ec84226c1a091b.js"
+          "file": "metadata---myportfolio-blog-tags-bem-vindo-316-6a6.e1b064db23ea4dbce2b1.js",
+          "hash": "899fde9db33cae7e2eba",
+          "publicPath": "/myportfolio/metadata---myportfolio-blog-tags-bem-vindo-316-6a6.e1b064db23ea4dbce2b1.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "metadata---personal-home-page-blog-tags-blog-4-f-4-61e.77294e99e012636bd05e.js",
-          "hash": "1eb55bf96bd8f99aaf4c",
-          "publicPath": "/PersonalHomePage/metadata---personal-home-page-blog-tags-blog-4-f-4-61e.77294e99e012636bd05e.js"
+          "file": "metadata---myportfolio-blog-tags-blog-587-51f.6aa45c00dd939ee8b508.js",
+          "hash": "3cb5b86c7c53e3e51faa",
+          "publicPath": "/myportfolio/metadata---myportfolio-blog-tags-blog-587-51f.6aa45c00dd939ee8b508.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "metadata---personal-home-page-docs-intoa-8-e-588.e914136809ce9e957191.js",
-          "hash": "3147f7477e2110f92a1b",
-          "publicPath": "/PersonalHomePage/metadata---personal-home-page-docs-intoa-8-e-588.e914136809ce9e957191.js"
+          "file": "metadata---myportfolio-docs-intoe-72-7c1.6bd0b6ff2ae256fb4892.js",
+          "hash": "09c867e1aad9b7687d60",
+          "publicPath": "/myportfolio/metadata---myportfolio-docs-intoe-72-7c1.6bd0b6ff2ae256fb4892.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "runtime~main.d42d34c9e10fdcc85f29.js",
-          "hash": "91be40e9b3f55859d1d3",
-          "publicPath": "/PersonalHomePage/runtime~main.d42d34c9e10fdcc85f29.js"
+          "file": "runtime~main.333109d1d47dd8b6b4aa.js",
+          "hash": "e00ce6fb63f333428101",
+          "publicPath": "/myportfolio/runtime~main.333109d1d47dd8b6b4aa.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "tags---personal-home-page-blog-tagsdec-9c7.f204ad4dd44932d4c346.js",
-          "hash": "74f4b9efd31763f353b9",
-          "publicPath": "/PersonalHomePage/tags---personal-home-page-blog-tagsdec-9c7.f204ad4dd44932d4c346.js"
+          "file": "tags---myportfolio-blog-tagsc-6-d-14d.bd6bc308f61abddf6ea4.js",
+          "hash": "f6bbeb55eee51757781d",
+          "publicPath": "/myportfolio/tags---myportfolio-blog-tagsc-6-d-14d.bd6bc308f61abddf6ea4.js"
         }
       ]
     },
@@ -333,7 +333,7 @@
         {
           "file": "20.c67e59088f2cf1125f3d.js",
           "hash": "fb86e718cd4773c860d2",
-          "publicPath": "/PersonalHomePage/20.c67e59088f2cf1125f3d.js"
+          "publicPath": "/myportfolio/20.c67e59088f2cf1125f3d.js"
         }
       ]
     }
