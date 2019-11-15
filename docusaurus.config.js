@@ -10,9 +10,9 @@ module.exports = {
   tagline: 'my personal homepage',
   url: 'https://fmmMelo.github.io',
   favicon: "favicon.ico",
-  baseUrl: '/PersonalHomePage/',
+  baseUrl: '/myportfolio/',
   organizationName: 'fmmMelo', // Usually your GitHub org/user name.
-  projectName: 'PersonalHomePage', // Usually your repo name.
+  projectName: 'myportfolio', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Felipe',
