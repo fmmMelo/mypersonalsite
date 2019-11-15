@@ -12,7 +12,9 @@
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.30",
     "@docusaurus/preset-classic": "^2.0.0-alpha.30",
+    "@symfony/webpack-encore": "git://github.com/symfony/webpack-encore.git#master",
     "classnames": "^2.2.6",
+    "dependencies": "^0.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
@@ -27,5 +29,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack-dev-server": "^3.9.0"
   }
 }
